@@ -9,8 +9,9 @@ public class Hero {
 	}
 	public void sit(int sec) {
 		this.hp += sec;
-		System.out.println(this.name +"は、"+ "秒座った");
+		System.out.println(this.name +"は、"+ sec + "秒座った");
 		System.out.println("HP"+ sec+ "ポイント回復");
 		
 	}
 }
+
