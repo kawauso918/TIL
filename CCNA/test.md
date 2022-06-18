@@ -28,4 +28,5 @@
 [5]DRAMの容量  
 [6]Flashメモリの容量  
 [7]コンフィグレーションレジスタ値  
+24. RSTPを有効にするコマンドは「spanning-tree mode rapid-pvst」
 
