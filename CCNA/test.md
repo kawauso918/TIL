@@ -31,4 +31,6 @@
 24. RSTPを有効にするコマンドは「spanning-tree mode rapid-pvst」
 25. IEEE 802.1Qは、フレームにVLANタグを付けるための規格
 26. SOHO（Small Office/Home Office）とは、小規模オフィスや自宅兼事務所（在宅ワークなど）のような小規模なネットワーク構成を指します。
+27. Localモードは、LAPのデフォルトのモードです。  
+電波を使って無線LANクライアントとデータを送受信し、CAPWAPトンネルを通じてWLCにデータを送信します
 
