@@ -31,3 +31,4 @@
 30. 図の分岐判定条件は「A＞6 or B＝0」なので、  
 (A＝4，B＝1)→No  
 (A＝5，B＝0)→Yes
+31. AES(Advanced Encryption Standard)は、アメリカ合衆国の次世代暗号方式として規格化された共通鍵暗号方式
