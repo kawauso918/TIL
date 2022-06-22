@@ -20,4 +20,4 @@
 20. AWS CloudHSM は、クラウドベースのハードウェアセキュリティモジュール (HSM) //p30//
 21. AWS Audit ManagerはAWSリソース の使用状況を継続的に監査して、リスクとコンプライアンスの評価を自動化するサービス
 22. Amazon Quantum Ledger Database（Amazon QLDB） は、フルマネージドな台帳データベースサービス
-23. Amazon DynamoDBはJSON形式のデータを保存・処理するドキュメント型データベースとして利用することが可能
+23. Amazon DynamoDBはJSON形式のデータを保存・処理するドキュメント型データベースとして利用することが可能//p50//
