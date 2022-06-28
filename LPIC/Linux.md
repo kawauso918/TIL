@@ -41,4 +41,5 @@ bzip2形式でファイルを圧縮、または展開するコマンド。gzip�
 34. 「/etc/ld.so.cache」は共有ライブラリを検索するためのバイナリファイルです。
 ldconfigコマンドは共有ライブラリの検索パスが記述されている「/etc/ld.so.conf」ファイルを参照し「/etc/ld.so.cache」ファイルを更新（作成）します。  
 なお、ldconfigは管理者(rootユーザ)のみが使用できるコマンドです  
+35. ZypperはopenSUSE（SUSE Linuxから改名）が採用しているコマンドラインのパッケージ管理ツール
 
